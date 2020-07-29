@@ -4,4 +4,6 @@
 <h1>Design Team 3: Code</h1>
 </div>
 
+About
+---
 This repository showcases our team's code for the SHAD online Blue Origin design challenge
